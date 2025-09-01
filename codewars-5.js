@@ -1,14 +1,5 @@
 function disemvowel(str) {
-  let vowels = 'AEIOUaeiou';
-  let result = '';
-  for(let crr of str){
-    if(vowels.includes(crr)){
-      result += '';
-    } else {
-      result += crr;
-    }
-  }
-  return result;
+  return str.split('').filter(c => !'AEIOUaeiou'.includes(c)).join('');
 }
 
 console.log(disemvowel("This website is for losers LOL!"))
