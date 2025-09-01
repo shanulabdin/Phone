@@ -1,11 +1,5 @@
-Function getShortWords(array){
-  let shortWords = [];
-  for(let crr of array){
-    if(crr.length <= 5){
-      shortWords.push(crr)
-    }
-  }
-  return shortWords;
+function getShortWords(array){
+  return array.filter((a) => a.length <= 5);
 }
 
 
