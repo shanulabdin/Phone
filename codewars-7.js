@@ -1,5 +1,10 @@
 function getShortWords(array){
-  return array.filter((a) => a.length <= 5);
+  return array.reduce((acc, crr) => {
+    if(crr.length <= 5){
+      acc.push(crr);
+    }
+    return acc;
+  }, [])
 }
 
 
