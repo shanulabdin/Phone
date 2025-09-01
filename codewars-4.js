@@ -1,12 +1,5 @@
 function positiveSum(arr) {
-  
-  let sum = 0;
-  for(let num of arr){
-    if(num > 0){
-      sum += num;
-    }
-  }
-  return sum;
+  return arr.reduce((sum, num) => num > 0 ? sum + num : sum, 0)
 }
 
 console.log(positiveSum([1, -4, 7, 12])) // 20  (1 + 7 + 12)
