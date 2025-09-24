@@ -1,3 +1,5 @@
+function question1 (){
+
 function pattern(n){
   if(n <=0){
     return '';
@@ -77,3 +79,5 @@ function pyramid(n){
 console.log(pyramid(-6));
 console.log(pyramid(6));
 console.log(pyramid(9));
+
+}
