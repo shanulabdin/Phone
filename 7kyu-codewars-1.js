@@ -81,3 +81,10 @@ console.log(pyramid(6));
 console.log(pyramid(9));
 
 }
+
+// solving a problem in degue, solved half of it on browser on phone but it got deleted somehow, so im doing it again
+
+function solution(str, ending){
+  
+}
+
