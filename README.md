@@ -3,3 +3,6 @@ Whatever i practice on phone will be pushed here
 
 19 October 2025
 I've had a fever for the last 4 days, and my condition is really worse right now. I think it might be Dengue, so I'm doing this because I don't want to lose the streak. My apologies.
+
+Feb 11 2026
+react use effect review 
