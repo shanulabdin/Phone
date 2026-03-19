@@ -9,3 +9,5 @@ react use effect review
 
 Mar 18
 Put notifications in my app with copilot and some testing.
+
+learned implementation of python in ai
