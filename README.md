@@ -11,3 +11,6 @@ Mar 18
 Put notifications in my app with copilot and some testing.
 
 learned implementation of python in ai
+
+mar 21
+explaining internal testing and production build to Friend.
