@@ -14,3 +14,6 @@ learned implementation of python in ai
 
 mar 21
 explaining internal testing and production build to Friend.
+
+mar 22
+learning vector embedding.
